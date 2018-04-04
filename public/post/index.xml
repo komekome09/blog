@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ぶろぐ</title>
-    <link>https://komekome09.github.io/blog/</link>
-    <description>Recent content on ぶろぐ</description>
+    <title>Posts on ぶろぐ</title>
+    <link>https://komekome09.github.io/blog/post/</link>
+    <description>Recent content in Posts on ぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Thu, 05 Apr 2018 02:15:59 +0900</lastBuildDate>
     
-	<atom:link href="https://komekome09.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://komekome09.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
