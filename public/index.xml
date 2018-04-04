@@ -6,10 +6,19 @@
     <description>Recent content on ぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Apr 2018 02:15:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Apr 2018 02:58:07 +0900</lastBuildDate>
     
 	<atom:link href="https://komekome09.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travis_test</title>
+      <link>https://komekome09.github.io/blog/post/travis_test/</link>
+      <pubDate>Thu, 05 Apr 2018 02:58:07 +0900</pubDate>
+      
+      <guid>https://komekome09.github.io/blog/post/travis_test/</guid>
+      <description>Travis CIと連携したのできちんとデプロイ(コピーだけだけど)できてるかのテスト</description>
+    </item>
     
     <item>
       <title>First</title>
