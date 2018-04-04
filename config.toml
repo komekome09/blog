@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://komekome09.github.io/blog/"
+languageCode = "ja-JP"
+title = "ぶろぐ"
+theme = "angels-ladder"
+canonifyurls = true
+hasCJKLanguage = true
