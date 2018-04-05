@@ -6,18 +6,18 @@
     <description>Recent content in Posts on ぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Apr 2018 02:58:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Apr 2018 03:14:36 +0900</lastBuildDate>
     
 	<atom:link href="https://komekome09.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Travis_test</title>
-      <link>https://komekome09.github.io/blog/post/travis_test/</link>
-      <pubDate>Thu, 05 Apr 2018 02:58:07 +0900</pubDate>
+      <title>Android版Apple Musicでも曲情報をツイートしたい</title>
+      <link>https://komekome09.github.io/blog/post/applemusic_android/</link>
+      <pubDate>Fri, 06 Apr 2018 03:14:36 +0900</pubDate>
       
-      <guid>https://komekome09.github.io/blog/post/travis_test/</guid>
-      <description>Travis CIと連携したのできちんとデプロイ(コピーだけだけど)できてるかのテスト</description>
+      <guid>https://komekome09.github.io/blog/post/applemusic_android/</guid>
+      <description>Apple Musicで取得した再生中の曲情報をtwitterに呟きたいが対応しているアプリが探しても見つからない。 だったら作ってしまえないかと考えた</description>
     </item>
     
     <item>
